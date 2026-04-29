@@ -20,4 +20,4 @@ ESP32 IoT system sending sensor data to Arduino IoT Cloud.
 ## Notes
 
 -   Voltage max 3.3V
--   17 ohm used for current calculation
+-   3 ohm used for current calculation
